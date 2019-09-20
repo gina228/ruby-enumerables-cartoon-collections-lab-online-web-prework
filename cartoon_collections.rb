@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarves)
-  dwarves {
+  dwarves = {
    %w["Dopey", "Grumpy", "Bashful"]
 }
 end
